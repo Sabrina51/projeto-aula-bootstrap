@@ -1,0 +1,23 @@
+.navbar{
+    background-color:#58ACFA;
+}
+
+
+.about-us{
+    background-color:#FAFAFA;
+}
+
+
+.margin{
+    padding: 50px;
+    padding-top: 30px; /* com o padding foi possível deixar o top com a cor desejada. com o margin, ficou branca*/
+}
+
+.partners{
+    background-color: #A9D0F5;
+}
+
+.bg-foote{
+    background-color: black;
+    color: whitesmoke;
+}
